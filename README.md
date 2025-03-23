@@ -160,4 +160,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created by [Your Name] - [Your GitHub Profile](https://github.com/yourusername)
+Created by CE4A - University of Mines and Technology
