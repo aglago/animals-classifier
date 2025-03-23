@@ -1,0 +1,13 @@
+steps to perform before running the commands below
+
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+
+if the above doesn't work, try:
+source venv\Scripts\activate.bat
+
+pip install -r requirements.txt
+
+python main.py --image sample.jpg -> snake
+python main.py --image sample4.jpg -> cat
+python main.py --image sample5.jpg -> dog
