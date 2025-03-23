@@ -41,7 +41,7 @@ This project combines a Python TensorFlow model with a Next.js TypeScript fronte
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/animal-classifier.git
+git clone https://github.com/aglago/animal-classifier.git
 cd animal-classifier
 ```
 
